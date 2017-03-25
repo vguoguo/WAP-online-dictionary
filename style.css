@@ -1,0 +1,23 @@
+html { background:url(bg1.jpg); }
+input,button {font-family: 'Ubuntu', sans-serif;}
+
+.search-query {
+    padding-right: 3px;
+    padding-left: 4px;
+    margin-bottom: 0;
+    border-radius: 15px;
+    transition: width  0.5s ease-in-out;
+}
+#btn {
+    background-color: lightgrey;
+}
+.search-query{
+        width: 400px;
+    }   
+.search-query:focus{
+    width: 500px;
+}   
+#results{
+	 visibility:hidden;
+}
+

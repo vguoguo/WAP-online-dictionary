@@ -1,0 +1,2 @@
+1: ui does not change when the word can not be find in DB.
+2: auto complete function;
